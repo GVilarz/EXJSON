@@ -1,0 +1,18 @@
+{
+    "Aluno":{
+        "nome": "Gabriel Vilar",
+        "idade": 16,
+        "media notas": 8.2,
+        "aprovado": true,
+        "sala": "2°Ano C",
+        "ano": "Segundo Ano do Ensino Medio",
+        "comportamento": "Bom",
+        "comite": null,
+        "curso":{
+            "Desenvolvimento De Sistemas": true,
+            "Mecatronica": false,
+            "Plastico": false
+        },
+        "Hobbies":["futebol", "Jogos eletronicos", "Kart"]
+    }
+}

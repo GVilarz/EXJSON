@@ -1,0 +1,18 @@
+{
+    "Produto":{
+        "tipo": "Calça",
+        "Estilo": "Baggy",
+        "marca": "Nike",
+        "preço": 379.9,
+        "disponivel": null,
+        "quantidade": 0,
+        "Outros Produtos":["Camisa", "Tenis", "Jaqueta"],
+        "Loja Aberta": true,
+        "Outras marcas (Calças) ":{
+            "Adidas": true,
+            "Puma": true,
+            "Asics": false
+        },
+        "desconto": null
+    }
+}

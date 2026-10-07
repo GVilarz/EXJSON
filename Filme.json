@@ -1,0 +1,27 @@
+{
+    "Filme Favorito":{
+        "titulo": "Scarface",
+        "ano": 1984,
+        "diretor": "Brian De Palma",
+        "duracao": "2h 45m",
+        "autores": ["Howard Hawks", "Armitage Trail", "Ben Hecht", "John Lee Mahin"],
+        "genero":{
+            "mafia": true,
+            "crime": true,
+            "gangster": true,
+            "suspence": true,
+            "ação": true,
+            "drama": true,
+            "neo-noir": true,
+            "ficção policial": true,
+            "hitoria de detetives": true,
+            "misterio": true,
+            "policial processual": true
+        },
+        "Classificação": "+18",
+        "Fatos Reais": false,
+        "Notas IMDb": 8.3,
+        "segundo filme": null
+    }
+    
+}
